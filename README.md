@@ -66,7 +66,7 @@
 ## Final Project
 - Title: Poetry Explorer
 - Description: Poetry Explorer is a Python-based interactive application that lets you dive into the world of poetry using the PoetryDB API
-- Link:- [Poetry Explorer](/project/)
+- Link:- [Poetry Explorer](/Poetry-Explorer)
 - Demo Video: https://youtu.be/s-Q0tJ6UDks
 
 ## Academic Honesty
