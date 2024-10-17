@@ -1,0 +1,4 @@
+requests
+cowsay
+art
+pytest
