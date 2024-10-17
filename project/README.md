@@ -238,7 +238,7 @@ Mary Elizabeth Coleridge
 ```
 
 
-## Peom by Title
+## Poem by Title
 Look up a poem by its title.
 
 ```
