@@ -11,15 +11,15 @@ Poetry is a form of literary expression that uses rhythmic, often compact langua
 ## Table of Contents
 + [Requirements](#requirements)
 + [Menu](#menu)
-+ [Random 25 Authors](#random_25_authors)
-+ [Random 25 Titles](#random_25_titles)
-+ [Random Poem](#random_poem)
-+ [Poem by Line](#poem_by_line)
-+ [Poem by Line Count](#poem_by_line_count)
-+ [Poem by Author](#poem_by_author)
-+ [Poem by Title](#poem_by_title)
++ [Random 25 Authors](#random-25-authors)
++ [Random 25 Titles](#random-25-titles)
++ [Random Poem](#random-poem)
++ [Poem by Line](#poem-by-line)
++ [Poem by Line Count](#poem-by-line-count)
++ [Poem by Author](#poem-by-author)
++ [Poem by Title](#poem-by-title)
 + [Installation](#installation)
-+ [How to Run](#how_to_run)
++ [How to Run](#how-to-run)
 
 
 ## Requirements
